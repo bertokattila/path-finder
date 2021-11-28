@@ -95,4 +95,4 @@ közti közvetlen útszakasz. Így a példához tartozó kimenet:
 ```
 5.00 10.20
 ```
-![cat](https://user-images.githubusercontent.com/22593928/143660574-2198ff76-0ca7-4a1d-84e1-b2fda526674d.gif)
+
